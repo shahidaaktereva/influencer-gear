@@ -1,0 +1,100 @@
+body{
+    font-family: 'Archivo Black', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.first{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.margin{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(247, 88, 88);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 1%;
+}
+.center{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+
+.fa-star.filled{
+    color: #FFC014;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+.one-third-width{
+    width: 25%;
+    padding: 2%;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+}
+.one-third-width img{
+    width: 100%;
+}
+.experiences-item{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(182, 179, 179);
+}
+.button{
+    text-decoration: none;
+    color: rgb(201, 79, 99);
+    margin-left: 1120px;
+}
+.color{
+    color: white;
+}
+.abc{
+    text-align: center;
+    background-color: rgb(8, 8, 46);
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
+.fab{
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
